@@ -1,6 +1,6 @@
 # 🏭 Scale Defect Analysis
 ![scale project](https://github.com/user-attachments/assets/7e89cccb-ca81-4a64-9d5a-ba5f988d2120)
-![2](https://github.com/user-attachments/assets/0fd3e827-3a01-4868-ab47-5e10f8991863)
+![2](https://github.com/user-attachments/assets/844237f9-0f98-42c2-a8eb-34afe572707e)
 ![3](https://github.com/user-attachments/assets/f2fd3316-9a03-48c9-9376-db41277e586e)
 ![4](https://github.com/user-attachments/assets/cb4a0e53-280f-4f12-9b79-da1661523187)
 ![5](https://github.com/user-attachments/assets/5a140014-7b7d-4a2b-aeaa-2c38faaa5dbf)
@@ -10,5 +10,5 @@
 ![9](https://github.com/user-attachments/assets/a0165c3c-d2ff-4304-8a01-5dd6309543b8)
 ![10](https://github.com/user-attachments/assets/c800b4fd-d00a-4735-817a-45ff60feeb69)
 ![11](https://github.com/user-attachments/assets/fe59b148-1dbf-4a57-8371-68877d278579)
-![12](https://github.com/user-attachments/assets/e4e99ed4-aec4-4c5d-971a-7f50b3080147)
+![12](https://github.com/user-attachments/assets/1ef7ee93-f06d-4a90-bdd3-a67c45a8429f)
 ![13](https://github.com/user-attachments/assets/d20a7889-4fe5-4cef-847e-2fbe8667a3a2)
