@@ -1,5 +1,5 @@
 # 🏭 Scale Defect Analysis
-![1](https://github.com/user-attachments/assets/53bcd7c4-2202-4c18-bfaa-5e2f56129aa8)
+![scale project](https://github.com/user-attachments/assets/7e89cccb-ca81-4a64-9d5a-ba5f988d2120)
 ![2](https://github.com/user-attachments/assets/0fd3e827-3a01-4868-ab47-5e10f8991863)
 ![3](https://github.com/user-attachments/assets/f2fd3316-9a03-48c9-9376-db41277e586e)
 ![4](https://github.com/user-attachments/assets/cb4a0e53-280f-4f12-9b79-da1661523187)
