@@ -1,3 +1,4 @@
 # 🗂️ Projects
 
-### [1. 🏭 Scale Defect Analytics](#scale_defect_analytics)
+### 1. 🏭 Scale Defect Analytics
+[click](#scale_defect_analytics)
