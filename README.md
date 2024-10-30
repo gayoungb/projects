@@ -8,7 +8,7 @@
 #### ⚙️ 분석 환경
 - Python : 추출, 분석, 시각화
   
-[프로젝트 상세](https://github.com/gayoungb/projects/tree/main/scale_defect_analytics)
+[프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/scale_defect_analytics)
 
 
 
@@ -19,4 +19,4 @@
 - BigQuery: 추출, 분석   
 - Looker Studio: 시각화 
 
-[프로젝트 상세](https://github.com/gayoungb/projects/tree/main/analytics_for_more_applications)
+[프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/analytics_for_more_applications)
