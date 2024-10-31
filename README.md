@@ -1,6 +1,6 @@
 # 🗂️ Projects
 
-![image](https://github.com/user-attachments/assets/f2fc16be-7223-4341-8b14-94e706b0ae9f) [click!](https://public.tableau.com/app/profile/gayoungb/vizzes)
+#### 📈 Tableau Dashboard 👉🏻 [click](https://public.tableau.com/app/profile/gayoungb/vizzes)
 
 ## 1. 🏭 Scale Defect Analytics 
 후판공정 Scale 불량 핵심요인 분석 및 개선안 제시   
