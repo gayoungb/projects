@@ -32,4 +32,4 @@
 #### ⚙️ 분석 환경
 - Python : 추출, 분석, 시각화
 
-[프로젝트 세부사항](github.com/gayoungb/projects/tree/main/increasing_homeshopping_sales)
+[프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/increasing_homeshopping_sales)
