@@ -8,7 +8,7 @@
 1인 프로젝트
 
 #### ⚙️ 분석 환경
-- Python : 추출, 분석, 시각화
+- Python : 추출, 모델링, 분석, 시각화
   
 [프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/scale_defect_analytics)
 
@@ -33,6 +33,6 @@
 의뢰고객 세분화 통한 맞춤형 서비스 제공을 위한 RFM 분석 담당
 
 #### ⚙️ 분석 환경
-- Python : 추출, 분석, 시각화
+- Python : 추출, 모델링, 분석, 시각화
 
 [프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/increasing_homeshopping_sales)
