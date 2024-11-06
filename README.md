@@ -5,7 +5,7 @@
 ## 1. 🏭 Scale Defect Analytics 
 후판공정 Scale 불량 핵심요인 분석 및 개선안 제시   
 
-▶︎ 1인 프로젝트
+> 1인 프로젝트
 
 #### ⚙️ 분석 환경
 - Python : 추출, 분석, 시각화
@@ -17,7 +17,7 @@
 ## 2. 💼 Analytics for more applications 
 유저의 지원 수 증대를 위한 프로덕트 개선방향 제안 
 
-▶︎ 1인 프로젝트
+> 1인 프로젝트
 
 #### ⚙️ 분석 환경
 - BigQuery: 추출, 분석   
@@ -29,7 +29,7 @@
 ## 3. 🛍️ A Project for Increasing Homeshopping Sales  
 홈쇼핑의 매출 증대를 위한 개선안  
 
-▶︎ 6인팀 프로젝트  
+> 6인팀 프로젝트  
 의뢰고객 세분화 통한 맞춤형 서비스 제공을 위한 RFM 분석 담당
 
 #### ⚙️ 분석 환경
