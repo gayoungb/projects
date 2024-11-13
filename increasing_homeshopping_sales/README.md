@@ -1,5 +1,5 @@
 # 🛍️ A Project for Increaing Homeshopping Sales
-![최종 발표 ppt_page-0001](https://github.com/user-attachments/assets/3f95acc1-c1ec-4d9d-a41e-c18a9811e2aa)
+![포트폴리오의 사본 (2)page1](https://github.com/user-attachments/assets/7a92d7d4-eabd-4fcd-a2ae-5390d1290923)
 ![최종 발표 ppt_page-0002](https://github.com/user-attachments/assets/4ed15492-7729-4e39-ad26-2d0e4c60dd7b)
 ![최종 발표 ppt_page-0003](https://github.com/user-attachments/assets/e93ad1bf-30f0-4588-8287-59fc1e8a517a)
 ![최종 발표 ppt_page-0004](https://github.com/user-attachments/assets/d7f83b8e-1f6a-42df-a1ce-839500d62c7c)
