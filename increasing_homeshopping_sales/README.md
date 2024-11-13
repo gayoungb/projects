@@ -3,7 +3,7 @@
 ![최종 발표 ppt_page-0002](https://github.com/user-attachments/assets/4ed15492-7729-4e39-ad26-2d0e4c60dd7b)
 ![최종 발표 ppt_page-0003](https://github.com/user-attachments/assets/e93ad1bf-30f0-4588-8287-59fc1e8a517a)
 ![최종 발표 ppt_page-0004](https://github.com/user-attachments/assets/d7f83b8e-1f6a-42df-a1ce-839500d62c7c)
-![최종 발표 ppt_page-0005](https://github.com/user-attachments/assets/aff04b09-fbfb-4d0f-9ce6-ef96103d3c4b)
+![포트폴리오의 사본 (1) page5](https://github.com/user-attachments/assets/d1fdbffb-f08a-4381-bbe1-72307252d705)
 ![최종 발표 ppt_page-0006](https://github.com/user-attachments/assets/0714a590-920e-4107-a458-b5d18980cc74)
 ![최종 발표 ppt_page-0007](https://github.com/user-attachments/assets/568228d7-1338-482f-ae2c-0340d45fe227)
 ![최종 발표 ppt_page-0008](https://github.com/user-attachments/assets/cb1599ef-350a-4337-8d97-4396fc31bb75)
