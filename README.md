@@ -25,14 +25,3 @@
 
 [프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/analytics_for_more_applications)
 
-
-## 3. 🛍️ A Project for Increasing Homeshopping Sales  
-> 홈쇼핑의 매출 증대를 위한 개선안  
-
-6인팀 프로젝트  
-의뢰고객 세분화 통한 맞춤형 서비스 제공을 위한 RFM 분석 담당
-
-#### ⚙️ 분석 환경
-- Python : 추출, 모델링, 분석, 시각화
-
-[프로젝트 세부사항](https://github.com/gayoungb/projects/tree/main/increasing_homeshopping_sales)
